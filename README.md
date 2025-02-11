@@ -1,6 +1,6 @@
 # Fyle Frontend Challenge
 
-## Live here - https://fyle-frontend-development-challenge-sable.vercel.app/
+## Live here - https://fyle-frontend-mu.vercel.app/
 
 [View Code Coverage Report](./coverage/index.html)
 
