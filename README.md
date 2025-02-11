@@ -34,6 +34,6 @@ This project is a workout system built using Angular and styled with Tailwind CS
    ```bash
    Install node version > 18
    git clone https://github.com/sakshammishra5/FYLE_FRONTEND.git
-   cd fyle-FrontendDevelopmentChallenge
+   cd fyle-FRONTEND_CHALLENGE
    Run npm install
    Run ng serve (to start dev server locally)
